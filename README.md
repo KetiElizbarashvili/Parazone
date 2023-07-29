@@ -1,2 +1,2 @@
-# Paralax
-Paralax - OWN Development
+# Parazone
+Parazone - OWN Development
